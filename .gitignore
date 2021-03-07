@@ -24,7 +24,11 @@ hs_err_pid*
 
 #Intelij and stuff
 .DS_Store
-*.iml
 out/
 target/
-.idea/
+.idea/shelf/
+.idea/uiDesigner.xml
+.idea/usage.statistics.xml
+.idea/tasks.xml
+.idea/workspace.xml
+.idea/libraries/
